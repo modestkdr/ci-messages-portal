@@ -1,6 +1,8 @@
 ## Message Board - based on CodeIgniter
 A simple CodeIgniter based site which allows authenticated users to post messages.
 
+Video demo: http://youtu.be/jJzp1nig488
+
 ### Instructions
 - Clone the git repository onto your server
 - Change the site URL in cofig/config.php
